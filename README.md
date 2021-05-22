@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/IdeilsonCisne">
-    <img src="https://img.shields.io/github/followers/IdeilsonCisne?label=follow&style=social" height="22" title="Follow me" align="right" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/ideilsoncisne/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
-</a>
-<br>
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=IdeilsonCisne) -->
+![Visitors](https://komarev.com/ghpvc/?username=IdeilsonCisne&color=blue&style=flat)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ideilsoncisne/)
+[![Follow me](https://img.shields.io/github/followers/IdeilsonCisne?label=follow&style=social)](https://github.com/IdeilsonCisne)
+
 
 ------------
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdeilsonCisne&langs_count=8&layout=compact&theme=gruvbox)
