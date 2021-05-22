@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 </a>
 <br>
 
--------------
+------------
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdeilsonCisne&langs_count=8&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=IdeilsonCisne&show_icons=true&theme=gruvbox&count_private=true)
+![Top Langs](https://github-profile-trophy.vercel.app/?username=IdeilsonCisne&column=7&theme=gruvbox&no-frame=true)
+ -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdeilsonCisne&langs_count=8&layout=compact&theme=gruvbox" align="left" width="365px" height="210" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=IdeilsonCisne&show_icons=true&theme=gruvbox" width="465px" height="210" />
+<img src="https://github-readme-stats.vercel.app/api?username=IdeilsonCisne&show_icons=true&theme=gruvbox&count_private=true" width="465px" height="210" />
 <img src="https://github-profile-trophy.vercel.app/?username=IdeilsonCisne&column=7&theme=gruvbox&no-frame=true" width="1200px" /> 
 
